@@ -1,5 +1,5 @@
-Author: Evan Shajed
-Email: evanshajed@smedevelopers.com
+Author: Evan Shajed<br/>
+Email: evanshajed@smedevelopers.com <br/>
 Twitter: evan2all
 Facebook: http://facebook.com/szevan
 ------------------------------------------------------
