@@ -145,6 +145,7 @@ border-radius: 2px;
 
 .home_para span {color:#b69055; font-size: 1.3em; padding-bottom: 10px;}
 .home_para { border-bottom: 1px dotted #999;}
+.home_para h3 { padding-top: 20px;}
 .home_para h3,h4{ font-family:Georgia; font-size: 1.2em; color: #111; padding-bottom: 1.2em; font-weight: bold;}
 .home_para h4{font-size: 1em; color: #333; padding-top: 10px; padding-bottom: 5px;}
 .home_para p{font-size: 1.2em; color: #111; line-height: 1.2em; padding-bottom: 20px;}

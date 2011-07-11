@@ -5,6 +5,11 @@
 <!--Buy billion -->
 <div class="grid_14 push_1 home_para margin_top_20"> 
 <img class="coins" src="http://www.coinnews.net/wp-content/uploads/2009/11/US-Bullion-Coins.jpg"/>
+
+<script type="text/javascript" src="
+http://www.gold-quote.net/TABLE2/gen.php?lang=e..."> </script>
+<noscript> To get the <a href="http://www.gold-quote.net">gold price</a>,
+please enable Javascript. </noscript>
 <h3>Merit Financial sales bullion gold and silver products for just 1% of
 our costs everyday.</h3>
 <span>
